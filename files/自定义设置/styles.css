@@ -67,7 +67,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MS PGothic Bold', 'MS PGothic Regular', 'MS PGothic', sans-serif;
+  font-family:'MS PGothic Bold', 'MS PGothic', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#F2F2F2;
@@ -80,7 +80,7 @@
   width:193px;
   height:32px;
   display:flex;
-  font-family:'MS PGothic Bold', 'MS PGothic Regular', 'MS PGothic', sans-serif;
+  font-family:'MS PGothic Bold', 'MS PGothic', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#F2F2F2;
@@ -376,7 +376,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -388,7 +388,7 @@
   width:82px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -416,7 +416,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -444,7 +444,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -456,7 +456,7 @@
   width:82px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -484,7 +484,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -3777,6 +3777,7 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u939_img {
   border-width:0px;
@@ -3929,7 +3930,7 @@
 #u943 {
   border-width:0px;
   position:absolute;
-  left:1525px;
+  left:1324px;
   top:1534px;
   width:90px;
   height:19px;
