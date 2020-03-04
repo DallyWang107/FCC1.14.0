@@ -80,7 +80,16 @@
 .form_hint {
   color:#999999;
 }
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
 .box_3 {
+}
+.shape {
 }
 .button {
 }
