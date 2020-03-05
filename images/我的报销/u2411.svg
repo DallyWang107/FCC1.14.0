@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="23px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="230px" height="40px" viewBox="286 859  230 40" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip1772">
-      <path d="M 0 11.5  C 0 8.27999999999997  1.26499999999999 5.40499999999997  3.33499999999998 3.33500000000004  C 5.40499999999997 1.26499999999999  8.27999999999997 0  11.5 0  C 17.9400000000001 0  23 5.05999999999995  23 11.5  C 23 17.9400000000001  17.9400000000001 23  11.5 23  C 5.05999999999995 23  0 17.9400000000001  0 11.5  Z " fill-rule="evenodd" />
-    </mask>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="401" y1="859" x2="401" y2="899" id="LinearGradient155">
+      <stop id="Stop156" stop-color="#ffffff" stop-opacity="0.874509803921569" offset="0" />
+      <stop id="Stop157" stop-color="#7f7f7f" stop-opacity="0.333333333333333" offset="1" />
+    </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -508 -1029 )">
-    <path d="M 0 11.5  C 0 8.27999999999997  1.26499999999999 5.40499999999997  3.33499999999998 3.33500000000004  C 5.40499999999997 1.26499999999999  8.27999999999997 0  11.5 0  C 17.9400000000001 0  23 5.05999999999995  23 11.5  C 23 17.9400000000001  17.9400000000001 23  11.5 23  C 5.05999999999995 23  0 17.9400000000001  0 11.5  Z " fill-rule="nonzero" fill="#ff6699" stroke="none" transform="matrix(1 0 0 1 508 1029 )" />
-    <path d="M 0 11.5  C 0 8.27999999999997  1.26499999999999 5.40499999999997  3.33499999999998 3.33500000000004  C 5.40499999999997 1.26499999999999  8.27999999999997 0  11.5 0  C 17.9400000000001 0  23 5.05999999999995  23 11.5  C 23 17.9400000000001  17.9400000000001 23  11.5 23  C 5.05999999999995 23  0 17.9400000000001  0 11.5  Z " stroke-width="4" stroke="#ff9933" fill="none" transform="matrix(1 0 0 1 508 1029 )" mask="url(#clip1772)" />
-  </g>
+  <path d="M 286.5 859.5  L 515.5 859.5  L 515.5 898.5  L 286.5 898.5  L 286.5 859.5  Z " fill-rule="nonzero" fill="url(#LinearGradient155)" stroke="none" />
+  <path d="M 286.5 859.5  L 515.5 859.5  L 515.5 898.5  L 286.5 898.5  L 286.5 859.5  Z " stroke-width="1" stroke="#797979" fill="none" />
 </svg>
